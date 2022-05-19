@@ -1,0 +1,21 @@
+@keyframes sum_kf_aparecer_izq {
+    from {
+        opacity: 0;
+        left: -50px;
+    }
+     to {
+        opacity: 1;
+        left: 0;
+    }
+}
+
+@-webkit-keyframes sum_kf_aparecer_izq {
+    from {
+        opacity: 0;
+        left: -50px;
+    }
+     to {
+        opacity: 1;
+        left: 0;
+    }
+}
